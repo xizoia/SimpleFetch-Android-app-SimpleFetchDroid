@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色模式：仅切换状态栏文字为浅色（其余 item 继承 AppTheme.Base，颜色经 @color 自动取 night 值） -->
+    <style name="AppTheme" parent="AppTheme.Base">
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/md_surface</item>
+        <item name="android:navigationBarColor">@color/md_surface</item>
+    </style>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MIUIX / HyperOS 设计语言 · 深色（Night）色板 -->
+    <color name="md_primary">#5B95FF</color>
+    <color name="md_on_primary">#0A2247</color>
+    <color name="md_primary_container">#243348</color>
+    <color name="md_on_primary_container">#CFE0FF</color>
+
+    <color name="md_secondary_container">#2B2E34</color>
+
+    <color name="md_surface">#161719</color>
+    <color name="md_surface_dim">#101113</color>
+    <color name="md_surface_container">#26282D</color>
+    <color name="md_surface_container_high">#303338</color>
+
+    <color name="md_on_surface">#E9EAED</color>
+    <color name="md_on_surface_variant">#A7ABB2</color>
+    <color name="md_outline">#3B3E44</color>
+    <color name="md_card_stroke">#36393F</color>
+
+    <color name="md_success">#57D98A</color>
+    <color name="md_warning">#F0C04C</color>
+    <color name="md_error">#FF7A7E</color>
+
+    <color name="md_log_bg">#0E0F12</color>
+    <color name="md_log_text">#9AA0A6</color>
+</resources>
