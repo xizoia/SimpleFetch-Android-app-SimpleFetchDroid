@@ -184,7 +184,7 @@ adb install SimpleFetchDroid.apk
 
 
 
-## 八、致谢
+## 七、致谢
 
 - [SimpleFetch](https://github.com/B4QAQ/SimpleFetch-AstroBoxV2-Plugins)（B4QAQ）— SF 协议设计与原插件实现
 - [AstroBox](https://github.com/AstroBox-NG) — V5 协议核心参考
