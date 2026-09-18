@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- 日志终端卡片：16dp 圆角（保持深色终端风） -->
-<shape xmlns:android="http://schemas.android.com/apk/res/android"
-    android:shape="rectangle">
-    <solid android:color="@color/md_log_bg" />
-    <corners android:radius="16dp" />
-</shape>
